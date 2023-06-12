@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "myles-keyboard")(type "KiCad")(uri "${KIPRJMOD}/myles-keyboard.kicad_sym")(options "")(descr ""))
+)
