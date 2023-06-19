@@ -9,7 +9,7 @@
     "net_color_mode": 1,
     "opacity": {
       "images": 1.0,
-      "pads": 1.0,
+      "pads": 0.15000000596046448,
       "tracks": 1.0,
       "vias": 1.0,
       "zones": 1.0
