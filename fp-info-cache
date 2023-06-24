@@ -1,4 +1,4 @@
-13497699898610
+16872984751428
 myles-keyboard
 Jumper
 
@@ -20,6 +20,20 @@ KeyHole
 0
 0
 0
+myles-keyboard
+KeyLeft
+
+
+0
+8
+6
+myles-keyboard
+KeyRight
+
+
+0
+8
+6
 myles-keyboard
 OLED
 
