@@ -3909,7 +3909,7 @@
     (property "Value" "Key" (at 102.87 109.855 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 102.87 104.14 0)
+    (property "Footprint" "myles-keyboard:KeyLeft" (at 102.87 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 102.87 104.14 0)
