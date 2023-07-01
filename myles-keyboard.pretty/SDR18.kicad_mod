@@ -19,4 +19,14 @@
     (thermal_bridge_angle 45) (tstamp facab62f-f21d-4edd-a183-8c155ff31553))
   (pad "2" smd rect (at 1.55 0) (size 0.9 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 048497fd-c398-485d-8ed5-48e0da2cf70c))
+  (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ":KICAD7_3DMODEL_DIR:Resistor_SMD.3dshapes/R_1206_3216Metric.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

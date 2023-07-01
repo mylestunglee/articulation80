@@ -53,4 +53,9 @@
   (pad "4" thru_hole oval (at 5.6 -2.4) (size 3.5 1) (drill oval 3 0.5) (layers "*.Cu" "*.Mask") (tstamp e2bc3799-01ab-477e-82d6-59b995d20545))
   (pad "5" thru_hole oval (at 1.1 -2.4) (size 2.5 1) (drill oval 2 0.5) (layers "*.Cu" "*.Mask") (tstamp 0627f655-b29c-41c2-9c6b-933a40819c09))
   (pad "6" thru_hole oval (at -1.9 -2.4) (size 2.5 1) (drill oval 2 0.5) (layers "*.Cu" "*.Mask") (tstamp 5cb06b64-d410-4f9d-9081-97294de8ab22))
+  (model "C:/Users/Myles/Desktop/keyboards/Keebio-Parts.pretty/3dmodels/PJ-320A.step"
+    (offset (xyz -5 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )
