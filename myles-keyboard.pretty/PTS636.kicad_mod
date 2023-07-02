@@ -37,4 +37,9 @@
     (stroke (width 0.001) (type default)) (fill none) (layer "F.Fab") (tstamp fa7707d8-fe15-4a16-ab0b-52a5807471c9))
   (pad "1" thru_hole circle (at -3.2 0) (size 1.7 1.7) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp a971dc35-131a-46dd-91e1-9b890e1ea46e))
   (pad "2" thru_hole circle (at 3.2 0) (size 1.7 1.7) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 83622165-17e6-4483-82c2-bdcdfd2bf036))
+  (model "C:/Users/Myles/Desktop/keyboards/CKCOMPONENTS_PTS636SP43LFS/PTS636SP43LFS.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
