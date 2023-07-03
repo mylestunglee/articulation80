@@ -1,11 +1,11 @@
 (footprint "PJ-320A" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
-  (fp_text reference "REF**" (at -1 0 unlocked) (layer "F.Fab")
+  (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab")
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     (tstamp 3f838368-8b56-4044-a559-00495c1b72e0)
   )
-  (fp_text value "PJ-320A" (at -1 1.143 unlocked) (layer "F.Fab") hide
+  (fp_text value "PJ-320A" (at 0 1.143 unlocked) (layer "F.Fab") hide
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     (tstamp 61703c5a-151a-4441-ad1e-d5fb1948721f)
   )
