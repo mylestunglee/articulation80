@@ -37,6 +37,7 @@
       8,
       9,
       10,
+      12,
       13,
       15,
       16,
@@ -66,7 +67,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "left plate.kicad_prl",
+    "filename": "right-plate.kicad_prl",
     "version": 3
   },
   "project": {

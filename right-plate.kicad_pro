@@ -407,7 +407,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "right plate.kicad_pro",
+    "filename": "right-plate.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -443,7 +443,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "right plate.step",
+      "step": "right-plate.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

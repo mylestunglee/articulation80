@@ -44,7 +44,7 @@
         )
       )
     )
-    (symbol "myles-keyboard:Jumper" (in_bom yes) (on_board yes)
+    (symbol "keyboard:Jumper" (in_bom yes) (on_board yes)
       (property "Reference" "JP" (at 0 2.54 0) (do_not_autoplace)
         (effects (font (size 1.27 1.27)))
       )
@@ -82,7 +82,7 @@
         )
       )
     )
-    (symbol "myles-keyboard:JumperSplit" (in_bom yes) (on_board yes)
+    (symbol "keyboard:JumperSplit" (in_bom yes) (on_board yes)
       (property "Reference" "JP" (at 0 2.8575 0) (do_not_autoplace)
         (effects (font (size 1.27 1.27)))
       )
@@ -132,7 +132,7 @@
         )
       )
     )
-    (symbol "myles-keyboard:Key" (in_bom yes) (on_board yes)
+    (symbol "keyboard:Key" (in_bom yes) (on_board yes)
       (property "Reference" "SW" (at 0 5.715 0) (do_not_autoplace)
         (effects (font (size 1.27 1.27)))
       )
@@ -248,7 +248,7 @@
         )
       )
     )
-    (symbol "myles-keyboard:PJ-320A" (in_bom yes) (on_board yes)
+    (symbol "keyboard:PJ-320A" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 0 0) (do_not_autoplace)
         (effects (font (size 1.27 1.27)))
       )
@@ -294,7 +294,7 @@
         )
       )
     )
-    (symbol "myles-keyboard:ProMicro" (in_bom yes) (on_board yes)
+    (symbol "keyboard:ProMicro" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 0 0) (do_not_autoplace)
         (effects (font (size 1.27 1.27)))
       )
@@ -412,7 +412,7 @@
         )
       )
     )
-    (symbol "myles-keyboard:RightPate" (in_bom yes) (on_board yes)
+    (symbol "keyboard:RightPate" (in_bom yes) (on_board yes)
       (property "Reference" "H" (at 0 0 0) (do_not_autoplace)
         (effects (font (size 1.27 1.27)))
       )
@@ -432,14 +432,14 @@
         )
       )
     )
-    (symbol "myles-keyboard:SW_Push" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (symbol "keyboard:SW_Push" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "SW_RST1" (at 0 3.81 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Value" "SW_Push" (at 0 3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Footprint" "myles-keyboard:PTS636" (at 0 5.08 0)
+      (property "Footprint" "keyboard:PTS636" (at 0 5.08 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "~" (at 0 5.08 0)
@@ -3030,7 +3030,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:PJ-320A") (at 58.42 105.41 0) (unit 1)
+  (symbol (lib_id "keyboard:PJ-320A") (at 58.42 105.41 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00d97d3f-2d8e-4487-90a9-fcf94b342e34)
     (property "Reference" "J1" (at 58.42 105.41 0) (do_not_autoplace)
@@ -3039,7 +3039,7 @@
     (property "Value" "TRRS" (at 58.42 107.95 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "myles-keyboard:PJ-320A" (at 58.42 106.68 0)
+    (property "Footprint" "keyboard:PJ-320A" (at 58.42 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 58.42 106.68 0)
@@ -3052,7 +3052,7 @@
     (pin "5" (uuid 72fd4148-dae8-4587-999b-c8a05f817e48))
     (pin "6" (uuid 1ef518b8-06d7-4930-ac65-f3edc6359b69))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "J1") (unit 1)
         )
@@ -3060,7 +3060,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 156.21 41.91 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 156.21 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 01811fb1-e4e3-4c79-aa0e-bffdfa42bdb2)
     (property "Reference" "SW03" (at 156.21 36.195 0) (do_not_autoplace)
@@ -3069,7 +3069,7 @@
     (property "Value" "Key" (at 156.21 47.625 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyRight" (at 156.21 41.91 0)
+    (property "Footprint" "keyboard:KeyRight" (at 156.21 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 156.21 41.91 0)
@@ -3082,7 +3082,7 @@
     (pin "5" (uuid 9470af6e-f74d-49ac-9f96-bb54ab2b531e))
     (pin "6" (uuid 5cb13fd2-952e-445b-ac41-9560bacf1d29))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW03") (unit 1)
         )
@@ -3090,7 +3090,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 156.21 62.23 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 156.21 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 03b0279a-a47d-405a-9c4e-631866ca80a8)
     (property "Reference" "SW13" (at 156.21 56.515 0) (do_not_autoplace)
@@ -3099,7 +3099,7 @@
     (property "Value" "Key" (at 156.21 67.945 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 156.21 62.23 0)
+    (property "Footprint" "keyboard:Key" (at 156.21 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 156.21 62.23 0)
@@ -3112,7 +3112,7 @@
     (pin "5" (uuid eacadf19-bd7a-42bf-ad80-baace20d59c5))
     (pin "6" (uuid ec1e71c6-47f1-4e8d-99dd-a88d6492d390))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW13") (unit 1)
         )
@@ -3120,7 +3120,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 173.99 104.14 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 173.99 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0d314e4f-fe04-4bd8-8c35-aa6d20ea1741)
     (property "Reference" "SW34" (at 173.99 98.425 0) (do_not_autoplace)
@@ -3129,7 +3129,7 @@
     (property "Value" "Key" (at 173.99 109.855 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 173.99 104.14 0)
+    (property "Footprint" "keyboard:Key" (at 173.99 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 173.99 104.14 0)
@@ -3142,7 +3142,7 @@
     (pin "5" (uuid 86632cd5-8a05-4f9e-9969-024fca10dbb8))
     (pin "6" (uuid 71f5ba64-714e-4f1a-9a4f-172e1b3dc53f))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW34") (unit 1)
         )
@@ -3150,7 +3150,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 173.99 41.91 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 173.99 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0dbdd53a-58dc-41e1-be47-fd4ff6c67ef1)
     (property "Reference" "SW04" (at 173.99 36.195 0) (do_not_autoplace)
@@ -3159,7 +3159,7 @@
     (property "Value" "Key" (at 173.99 47.625 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyLeft" (at 173.99 41.91 0)
+    (property "Footprint" "keyboard:KeyLeft" (at 173.99 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 173.99 41.91 0)
@@ -3172,7 +3172,7 @@
     (pin "5" (uuid 362ffc60-b238-4e7a-848e-fbced8e34f3d))
     (pin "6" (uuid 22dd5351-3aa6-4d85-bdf7-3b674d3d9c63))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW04") (unit 1)
         )
@@ -3180,7 +3180,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 227.33 62.23 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 227.33 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1183cd33-645f-4eed-a82e-693c656c4830)
     (property "Reference" "SW17" (at 227.33 56.515 0) (do_not_autoplace)
@@ -3189,7 +3189,7 @@
     (property "Value" "Key" (at 227.33 67.945 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 227.33 62.23 0)
+    (property "Footprint" "keyboard:Key" (at 227.33 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 227.33 62.23 0)
@@ -3202,7 +3202,7 @@
     (pin "5" (uuid 1c3023a1-53e3-44bf-9d92-c8feba0479b5))
     (pin "6" (uuid 8a339d3b-3e19-4aee-855d-e1cbdcd0538f))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW17") (unit 1)
         )
@@ -3210,7 +3210,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 102.87 82.55 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 102.87 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 176aa56b-6484-4b3a-91f0-447bdafeb12e)
     (property "Reference" "SW20" (at 102.87 76.835 0) (do_not_autoplace)
@@ -3219,7 +3219,7 @@
     (property "Value" "Key" (at 102.87 88.265 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyLeft" (at 102.87 82.55 0)
+    (property "Footprint" "keyboard:KeyLeft" (at 102.87 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 102.87 82.55 0)
@@ -3232,7 +3232,7 @@
     (pin "5" (uuid 0fe2164a-728a-49bc-8886-80d9d6654d89))
     (pin "6" (uuid 56d607d8-c884-436e-aa65-98e0f550d8f3))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW20") (unit 1)
         )
@@ -3240,7 +3240,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 227.33 82.55 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 227.33 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 233a99ec-d93b-4261-97d1-0271c08285f5)
     (property "Reference" "SW27" (at 227.33 76.835 0) (do_not_autoplace)
@@ -3249,7 +3249,7 @@
     (property "Value" "Key" (at 227.33 88.265 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 227.33 82.55 0)
+    (property "Footprint" "keyboard:Key" (at 227.33 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 227.33 82.55 0)
@@ -3262,7 +3262,7 @@
     (pin "5" (uuid f35b6882-499d-49d3-bf9a-c77ef7f7496e))
     (pin "6" (uuid 5fd009e8-806d-49ce-9bff-ceb0b8d41267))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW27") (unit 1)
         )
@@ -3270,7 +3270,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:RightPate") (at 16.51 16.51 0) (unit 1)
+  (symbol (lib_id "keyboard:RightPate") (at 16.51 16.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 24932eb3-8e94-4228-9a95-6ffd33371106)
     (property "Reference" "H1" (at 16.51 16.51 0) (do_not_autoplace)
@@ -3279,14 +3279,14 @@
     (property "Value" "RightPlate" (at 16.51 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:RightPlate" (at 16.51 16.51 0)
+    (property "Footprint" "keyboard:RightPlate" (at 16.51 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 16.51 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "H1") (unit 1)
         )
@@ -3311,7 +3311,7 @@
     )
     (pin "1" (uuid 4e51fdcf-934b-4326-9ecb-438a9b4b4346))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "#PWR02") (unit 1)
         )
@@ -3336,7 +3336,7 @@
     )
     (pin "1" (uuid f4db934d-ce46-4f7f-8d1f-72b582b0738b))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "#PWR01") (unit 1)
         )
@@ -3344,7 +3344,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 173.99 82.55 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 173.99 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 28e9c674-515e-41de-9dc1-2998ee4c438d)
     (property "Reference" "SW24" (at 173.99 76.835 0) (do_not_autoplace)
@@ -3353,7 +3353,7 @@
     (property "Value" "Key" (at 173.99 88.265 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 173.99 82.55 0)
+    (property "Footprint" "keyboard:Key" (at 173.99 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 173.99 82.55 0)
@@ -3366,7 +3366,7 @@
     (pin "5" (uuid 7c547602-5632-4e39-bd41-396d01b4eaf3))
     (pin "6" (uuid 4897f06e-2709-4907-89b9-8c4d59a63af5))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW24") (unit 1)
         )
@@ -3374,7 +3374,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:JumperSplit") (at 43.18 119.38 0) (unit 1)
+  (symbol (lib_id "keyboard:JumperSplit") (at 43.18 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2c53817c-078f-4c45-813c-b1de653b0404)
     (property "Reference" "JP4" (at 43.18 116.5225 0) (do_not_autoplace)
@@ -3383,7 +3383,7 @@
     (property "Value" "JumperSplit" (at 43.18 119.38 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:JumperSplit" (at 43.18 119.38 0)
+    (property "Footprint" "keyboard:JumperSplit" (at 43.18 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 43.18 119.38 0)
@@ -3393,7 +3393,7 @@
     (pin "2" (uuid 77c24399-80cc-4954-a6e9-99e823c2b3b9))
     (pin "3" (uuid 17e23fa2-dd77-420f-be2b-628d127c0ae3))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "JP4") (unit 1)
         )
@@ -3401,7 +3401,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 245.11 125.73 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 245.11 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2df6c463-6485-4617-a3a8-bfe249cf9986)
     (property "Reference" "SW48" (at 245.11 120.015 0) (do_not_autoplace)
@@ -3410,7 +3410,7 @@
     (property "Value" "Key" (at 245.11 131.445 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyRight" (at 245.11 125.73 0)
+    (property "Footprint" "keyboard:KeyRight" (at 245.11 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 245.11 125.73 0)
@@ -3423,7 +3423,7 @@
     (pin "5" (uuid 17425cdc-c6ce-4b87-be19-bffa28b19966))
     (pin "6" (uuid 6acf8d4f-3206-4336-be8f-c4458217cadc))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW48") (unit 1)
         )
@@ -3431,7 +3431,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 191.77 125.73 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 191.77 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3071f0df-6032-4ba5-906d-86b59b001f6c)
     (property "Reference" "SW45" (at 191.77 120.015 0) (do_not_autoplace)
@@ -3440,7 +3440,7 @@
     (property "Value" "Key" (at 191.77 131.445 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyRight" (at 191.77 125.73 0)
+    (property "Footprint" "keyboard:KeyRight" (at 191.77 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 191.77 125.73 0)
@@ -3453,7 +3453,7 @@
     (pin "5" (uuid bd11b26c-94f6-4ac9-bff5-7ca4766ed3a4))
     (pin "6" (uuid 8eaf4353-94f7-47fe-8246-15f8e45023e0))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW45") (unit 1)
         )
@@ -3478,7 +3478,7 @@
     )
     (pin "1" (uuid 11971622-31f4-48f6-a60a-b7122e24cf9f))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "#PWR05") (unit 1)
         )
@@ -3486,7 +3486,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 138.43 82.55 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 138.43 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 408a45a1-e122-4ead-861b-0802bca3515f)
     (property "Reference" "SW22" (at 138.43 76.835 0) (do_not_autoplace)
@@ -3495,7 +3495,7 @@
     (property "Value" "Key" (at 138.43 88.265 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 138.43 82.55 0)
+    (property "Footprint" "keyboard:Key" (at 138.43 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 138.43 82.55 0)
@@ -3508,7 +3508,7 @@
     (pin "5" (uuid 21916db9-53aa-4acf-9e10-69c39976e929))
     (pin "6" (uuid f21a9c0e-8125-41bb-b068-c4d232b3a21c))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW22") (unit 1)
         )
@@ -3516,7 +3516,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Jumper") (at 43.18 97.79 0) (unit 1)
+  (symbol (lib_id "keyboard:Jumper") (at 43.18 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 421ec7d0-63ce-4b38-be3c-4b01f0d548ca)
     (property "Reference" "JP1" (at 43.18 95.25 0) (do_not_autoplace)
@@ -3525,7 +3525,7 @@
     (property "Value" "Jumper" (at 43.18 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Jumper" (at 43.18 97.79 0)
+    (property "Footprint" "keyboard:Jumper" (at 43.18 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 43.18 97.79 0)
@@ -3534,7 +3534,7 @@
     (pin "1" (uuid 01b80c3e-66fd-46f5-a94d-2365953280a2))
     (pin "2" (uuid a3029a6e-3243-44af-b1da-8d5f6631daa8))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "JP1") (unit 1)
         )
@@ -3542,7 +3542,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 156.21 125.73 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 156.21 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 42fc7cda-645f-4399-9d2a-54f4c8206ce4)
     (property "Reference" "SW43" (at 156.21 120.015 0) (do_not_autoplace)
@@ -3551,7 +3551,7 @@
     (property "Value" "Key" (at 156.21 131.445 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 156.21 125.73 0)
+    (property "Footprint" "keyboard:Key" (at 156.21 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 156.21 125.73 0)
@@ -3564,7 +3564,7 @@
     (pin "5" (uuid e264c070-010f-4a72-b5fc-5bd6b51ce1ea))
     (pin "6" (uuid 6ad9d8b7-83ee-4d96-847c-8d04b9370535))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW43") (unit 1)
         )
@@ -3572,7 +3572,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 102.87 62.23 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 102.87 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4316ea48-c2cf-4ff4-a786-33071a219a23)
     (property "Reference" "SW10" (at 102.87 56.515 0) (do_not_autoplace)
@@ -3581,7 +3581,7 @@
     (property "Value" "Key" (at 102.87 67.945 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyLeft" (at 102.87 62.23 0)
+    (property "Footprint" "keyboard:KeyLeft" (at 102.87 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 102.87 62.23 0)
@@ -3594,7 +3594,7 @@
     (pin "5" (uuid 5fe55850-6398-4d8e-9674-532750d1073d))
     (pin "6" (uuid 21a511e7-60e0-4aa4-bb38-b3c1b4367288))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW10") (unit 1)
         )
@@ -3602,7 +3602,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 120.65 62.23 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 120.65 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5682770f-8e47-4dce-9710-a9d0057cf2c3)
     (property "Reference" "SW11" (at 120.65 56.515 0) (do_not_autoplace)
@@ -3611,7 +3611,7 @@
     (property "Value" "Key" (at 120.65 67.945 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 120.65 62.23 0)
+    (property "Footprint" "keyboard:Key" (at 120.65 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 120.65 62.23 0)
@@ -3624,7 +3624,7 @@
     (pin "5" (uuid c18af933-9dc2-45ec-b769-2ee3ff04d545))
     (pin "6" (uuid 77a2be52-b92c-4a9f-b42b-c767108feec3))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW11") (unit 1)
         )
@@ -3632,7 +3632,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Jumper") (at 43.18 102.87 0) (unit 1)
+  (symbol (lib_id "keyboard:Jumper") (at 43.18 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5959816a-7d05-4488-b0f3-d8e0b035de8b)
     (property "Reference" "JP2" (at 43.18 100.33 0) (do_not_autoplace)
@@ -3641,7 +3641,7 @@
     (property "Value" "Jumper" (at 43.18 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Jumper" (at 43.18 102.87 0)
+    (property "Footprint" "keyboard:Jumper" (at 43.18 102.87 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 43.18 102.87 0)
@@ -3650,7 +3650,7 @@
     (pin "1" (uuid 550e4d3c-6ae9-4eba-bca7-3ed76b0e614a))
     (pin "2" (uuid 5802ed8c-3f8f-4494-81b8-718bdd7c3edd))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "JP2") (unit 1)
         )
@@ -3675,7 +3675,7 @@
     )
     (pin "1" (uuid ffd367e5-8a78-4137-bd0a-acf91fd451a7))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "#PWR06") (unit 1)
         )
@@ -3683,7 +3683,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 138.43 104.14 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 138.43 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 62ed51c1-e4e7-4f80-a5c7-dbf1624e1802)
     (property "Reference" "SW32" (at 138.43 98.425 0) (do_not_autoplace)
@@ -3692,7 +3692,7 @@
     (property "Value" "Key" (at 138.43 109.855 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 138.43 104.14 0)
+    (property "Footprint" "keyboard:Key" (at 138.43 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 138.43 104.14 0)
@@ -3705,7 +3705,7 @@
     (pin "5" (uuid 11c6b309-b07d-4ad1-939f-01a1824886be))
     (pin "6" (uuid c80b193c-ae53-4ba8-9c00-47ef9a052e8e))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW32") (unit 1)
         )
@@ -3713,7 +3713,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 245.11 104.14 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 245.11 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 638115bd-18ff-4728-b840-c3f3dda94fcb)
     (property "Reference" "SW38" (at 245.11 98.425 0) (do_not_autoplace)
@@ -3722,7 +3722,7 @@
     (property "Value" "Key" (at 245.11 109.855 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyRight" (at 245.11 104.14 0)
+    (property "Footprint" "keyboard:KeyRight" (at 245.11 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 245.11 104.14 0)
@@ -3735,7 +3735,7 @@
     (pin "5" (uuid 9ce29b49-bd01-425a-acc5-3c6be4124760))
     (pin "6" (uuid 372cdd7f-0a98-4d84-86d0-ba4c8ba0fa9d))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW38") (unit 1)
         )
@@ -3760,7 +3760,7 @@
     )
     (pin "1" (uuid c10a5f13-3ff3-4646-bf3b-d3e29d175913))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "#PWR011") (unit 1)
         )
@@ -3768,7 +3768,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 120.65 104.14 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 120.65 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 68561e7d-7b91-413d-a9ac-a65c4cb49cdd)
     (property "Reference" "SW31" (at 120.65 98.425 0) (do_not_autoplace)
@@ -3777,7 +3777,7 @@
     (property "Value" "Key" (at 120.65 109.855 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 120.65 104.14 0)
+    (property "Footprint" "keyboard:Key" (at 120.65 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 120.65 104.14 0)
@@ -3790,7 +3790,7 @@
     (pin "5" (uuid ee13e99c-e9a3-479c-a808-62af9fa7a305))
     (pin "6" (uuid a0fdb0ac-a957-4b07-b94c-cdecfb81c15c))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW31") (unit 1)
         )
@@ -3798,7 +3798,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 191.77 82.55 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 191.77 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6d3fc65f-468b-463b-aec8-dabf41c59fad)
     (property "Reference" "SW25" (at 191.77 76.835 0) (do_not_autoplace)
@@ -3807,7 +3807,7 @@
     (property "Value" "Key" (at 191.77 88.265 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 191.77 82.55 0)
+    (property "Footprint" "keyboard:Key" (at 191.77 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 191.77 82.55 0)
@@ -3820,7 +3820,7 @@
     (pin "5" (uuid eca754c7-717d-4da6-8bef-2cf46edcc76a))
     (pin "6" (uuid d40dad59-4770-43ef-9118-57ad08ebc377))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW25") (unit 1)
         )
@@ -3845,7 +3845,7 @@
     )
     (pin "1" (uuid 4c8582a7-ccc4-4e0d-b68c-45a7cbd2e571))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "#PWR07") (unit 1)
         )
@@ -3862,7 +3862,7 @@
     (property "Value" "R" (at 53.34 83.82 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:SDR18" (at 53.34 83.058 90)
+    (property "Footprint" "keyboard:SDR18" (at 53.34 83.058 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 53.34 81.28 0)
@@ -3871,7 +3871,7 @@
     (pin "1" (uuid 1e02c297-f55c-4fd0-85cf-0a51ed1651aa))
     (pin "2" (uuid 4293439b-8c7c-4977-952a-88d07d201dc2))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "R1") (unit 1)
         )
@@ -3879,7 +3879,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 156.21 82.55 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 156.21 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 80a3fac3-dcf2-4c17-9f26-b839d13965be)
     (property "Reference" "SW23" (at 156.21 76.835 0) (do_not_autoplace)
@@ -3888,7 +3888,7 @@
     (property "Value" "Key" (at 156.21 88.265 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 156.21 82.55 0)
+    (property "Footprint" "keyboard:Key" (at 156.21 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 156.21 82.55 0)
@@ -3901,7 +3901,7 @@
     (pin "5" (uuid eac3bc90-ccf0-4b9f-9886-af78a9256eda))
     (pin "6" (uuid 92da5237-f3ec-4e8c-9672-89dcaab08bc6))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW23") (unit 1)
         )
@@ -3909,7 +3909,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 209.55 82.55 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 209.55 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 814a9120-bc9c-47ef-ac24-c22e5783e115)
     (property "Reference" "SW26" (at 209.55 76.835 0) (do_not_autoplace)
@@ -3918,7 +3918,7 @@
     (property "Value" "Key" (at 209.55 88.265 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 209.55 82.55 0)
+    (property "Footprint" "keyboard:Key" (at 209.55 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 209.55 82.55 0)
@@ -3931,7 +3931,7 @@
     (pin "5" (uuid 5dd1f229-fdd7-4e08-8586-c87420b4b234))
     (pin "6" (uuid 1705c396-c704-4bc2-bd65-6834130bef73))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW26") (unit 1)
         )
@@ -3939,7 +3939,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:SW_Push") (at 53.34 72.39 0) (unit 1)
+  (symbol (lib_id "keyboard:SW_Push") (at 53.34 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 82c6cbc3-b705-4143-b92e-c5fc14a7b18c)
     (property "Reference" "SW_RST1" (at 53.34 68.58 0)
@@ -3948,7 +3948,7 @@
     (property "Value" "SW_Push" (at 53.34 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:PTS636" (at 53.34 67.31 0)
+    (property "Footprint" "keyboard:PTS636" (at 53.34 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 53.34 67.31 0)
@@ -3957,7 +3957,7 @@
     (pin "1" (uuid c8238b32-f58d-4191-b776-249006755547))
     (pin "2" (uuid 643935d3-09fd-4516-9be7-a0c37482efac))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW_RST1") (unit 1)
         )
@@ -3965,7 +3965,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 191.77 62.23 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 191.77 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 83c80620-b38a-471f-91b9-f411e1042e75)
     (property "Reference" "SW15" (at 191.77 56.515 0) (do_not_autoplace)
@@ -3974,7 +3974,7 @@
     (property "Value" "Key" (at 191.77 67.945 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 191.77 62.23 0)
+    (property "Footprint" "keyboard:Key" (at 191.77 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 191.77 62.23 0)
@@ -3987,7 +3987,7 @@
     (pin "5" (uuid 48badeab-70b0-487f-b84a-39d087fe006c))
     (pin "6" (uuid 2715ee45-bbf3-49d8-98ba-a7e6190ce0fb))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW15") (unit 1)
         )
@@ -4012,7 +4012,7 @@
     )
     (pin "1" (uuid 0e248fc1-371c-4ead-9e9b-52d6ed17f18d))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "#PWR010") (unit 1)
         )
@@ -4020,7 +4020,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:JumperSplit") (at 43.18 111.76 0) (unit 1)
+  (symbol (lib_id "keyboard:JumperSplit") (at 43.18 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 883edfbc-8b89-47fb-ac17-8ae7c70a863f)
     (property "Reference" "JP3" (at 43.18 108.9025 0) (do_not_autoplace)
@@ -4029,7 +4029,7 @@
     (property "Value" "JumperSplit" (at 43.18 111.76 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:JumperSplit" (at 43.18 111.76 0)
+    (property "Footprint" "keyboard:JumperSplit" (at 43.18 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 43.18 111.76 0)
@@ -4039,7 +4039,7 @@
     (pin "2" (uuid 8991add5-0b67-4c73-9104-adf5064298fb))
     (pin "3" (uuid d019e496-888e-465e-8f38-979e3bbf2767))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "JP3") (unit 1)
         )
@@ -4047,7 +4047,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 102.87 104.14 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 102.87 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 890d6b3f-1c3b-4657-affc-1fb0ee2db6bd)
     (property "Reference" "SW30" (at 102.87 98.425 0) (do_not_autoplace)
@@ -4056,7 +4056,7 @@
     (property "Value" "Key" (at 102.87 109.855 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyLeft" (at 102.87 104.14 0)
+    (property "Footprint" "keyboard:KeyLeft" (at 102.87 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 102.87 104.14 0)
@@ -4069,7 +4069,7 @@
     (pin "5" (uuid 787c8b35-dc8c-4310-a20f-43a04da1079f))
     (pin "6" (uuid 1b5683a1-03ca-46a5-8edd-8d2044f9bded))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW30") (unit 1)
         )
@@ -4094,7 +4094,7 @@
     )
     (pin "1" (uuid 1755720b-b9a3-406b-a85d-463ac88bcc08))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "#PWR03") (unit 1)
         )
@@ -4102,7 +4102,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 120.65 82.55 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 120.65 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 997f6f78-de7f-4b51-9c79-f92cae97e420)
     (property "Reference" "SW21" (at 120.65 76.835 0) (do_not_autoplace)
@@ -4111,7 +4111,7 @@
     (property "Value" "Key" (at 120.65 88.265 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 120.65 82.55 0)
+    (property "Footprint" "keyboard:Key" (at 120.65 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 120.65 82.55 0)
@@ -4124,7 +4124,7 @@
     (pin "5" (uuid b85f809f-f28d-4752-adfc-31b33f1b2eb2))
     (pin "6" (uuid 62cacc31-1681-44c6-a1bf-8f314b92838c))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW21") (unit 1)
         )
@@ -4132,7 +4132,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 173.99 125.73 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 173.99 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9d4e6f94-5518-408a-8b1a-0e0220d7b008)
     (property "Reference" "SW44" (at 173.99 120.015 0) (do_not_autoplace)
@@ -4141,7 +4141,7 @@
     (property "Value" "Key" (at 173.99 131.445 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 173.99 125.73 0)
+    (property "Footprint" "keyboard:Key" (at 173.99 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 173.99 125.73 0)
@@ -4154,7 +4154,7 @@
     (pin "5" (uuid 420bac6f-8a76-4d20-9008-ad53383be19c))
     (pin "6" (uuid 569efb71-0daf-4020-8278-29d968fcbedc))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW44") (unit 1)
         )
@@ -4162,7 +4162,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 227.33 125.73 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 227.33 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9f927a52-6ff2-493d-8f64-a89d2a186e94)
     (property "Reference" "SW47" (at 227.33 120.015 0) (do_not_autoplace)
@@ -4171,7 +4171,7 @@
     (property "Value" "Key" (at 227.33 131.445 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 227.33 125.73 0)
+    (property "Footprint" "keyboard:Key" (at 227.33 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 227.33 125.73 0)
@@ -4184,7 +4184,7 @@
     (pin "5" (uuid 5c34f06b-fa77-4d2c-ab4c-7a1de89f93b7))
     (pin "6" (uuid 64803600-41a7-4333-abc1-46135037890d))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW47") (unit 1)
         )
@@ -4192,7 +4192,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 102.87 41.91 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 102.87 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a3071f20-9243-46b4-a84a-e88ce644abb0)
     (property "Reference" "SW00" (at 102.87 36.195 0) (do_not_autoplace)
@@ -4201,7 +4201,7 @@
     (property "Value" "Key" (at 102.87 47.625 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyLeft" (at 102.87 41.91 0)
+    (property "Footprint" "keyboard:KeyLeft" (at 102.87 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 102.87 41.91 0)
@@ -4214,7 +4214,7 @@
     (pin "5" (uuid 13c0dd60-fcb3-4eba-89a6-a1cb2825926e))
     (pin "6" (uuid a9b229b0-5f93-4e13-9faf-d0ac47e410aa))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW00") (unit 1)
         )
@@ -4222,7 +4222,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 138.43 41.91 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 138.43 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a365cedf-e9f4-4af2-94b3-5388c4359314)
     (property "Reference" "SW02" (at 138.43 36.195 0) (do_not_autoplace)
@@ -4231,7 +4231,7 @@
     (property "Value" "Key" (at 138.43 47.625 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 138.43 41.91 0)
+    (property "Footprint" "keyboard:Key" (at 138.43 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 138.43 41.91 0)
@@ -4244,7 +4244,7 @@
     (pin "5" (uuid ea5456cd-252b-40d0-9236-3afc6f0f0352))
     (pin "6" (uuid a33b6ddf-ff0e-4dcc-ba73-dc2b90db83da))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW02") (unit 1)
         )
@@ -4252,7 +4252,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 245.11 62.23 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 245.11 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a53a17b3-4efd-4966-94f5-cd629de5cee1)
     (property "Reference" "SW18" (at 245.11 56.515 0) (do_not_autoplace)
@@ -4261,7 +4261,7 @@
     (property "Value" "Key" (at 245.11 67.945 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyRight" (at 245.11 62.23 0)
+    (property "Footprint" "keyboard:KeyRight" (at 245.11 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 245.11 62.23 0)
@@ -4274,7 +4274,7 @@
     (pin "5" (uuid 89cb7d0c-33fb-4180-98ca-a5c4477af2d8))
     (pin "6" (uuid 9d6dc703-35bf-4c82-b0cc-7c76775b30a7))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW18") (unit 1)
         )
@@ -4299,7 +4299,7 @@
     )
     (pin "1" (uuid 19444684-9553-47c0-a533-4108c79cc0e1))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "#PWR04") (unit 1)
         )
@@ -4307,7 +4307,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 138.43 62.23 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 138.43 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a9ff9496-7f3b-461b-bd70-ee25f2c4c693)
     (property "Reference" "SW12" (at 138.43 56.515 0) (do_not_autoplace)
@@ -4316,7 +4316,7 @@
     (property "Value" "Key" (at 138.43 67.945 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 138.43 62.23 0)
+    (property "Footprint" "keyboard:Key" (at 138.43 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 138.43 62.23 0)
@@ -4329,7 +4329,7 @@
     (pin "5" (uuid a5f029aa-48d7-4de5-bffb-cd6e5594987a))
     (pin "6" (uuid 2c5d922a-3a42-494a-9580-4935b2fc5cf4))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW12") (unit 1)
         )
@@ -4337,7 +4337,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 245.11 82.55 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 245.11 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af4a5de9-856a-4436-b668-64f0ef21554b)
     (property "Reference" "SW28" (at 245.11 76.835 0) (do_not_autoplace)
@@ -4346,7 +4346,7 @@
     (property "Value" "Key" (at 245.11 88.265 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyRight" (at 245.11 82.55 0)
+    (property "Footprint" "keyboard:KeyRight" (at 245.11 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 245.11 82.55 0)
@@ -4359,7 +4359,7 @@
     (pin "5" (uuid 33335695-1048-44c7-8455-48277b67dcb0))
     (pin "6" (uuid 99701f3f-642c-4dc4-8b8b-fa0f708dfa62))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW28") (unit 1)
         )
@@ -4367,7 +4367,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 173.99 62.23 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 173.99 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b72061d5-c756-4150-b3c9-f43450494245)
     (property "Reference" "SW14" (at 173.99 56.515 0) (do_not_autoplace)
@@ -4376,7 +4376,7 @@
     (property "Value" "Key" (at 173.99 67.945 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyLeft" (at 173.99 62.23 0)
+    (property "Footprint" "keyboard:KeyLeft" (at 173.99 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 173.99 62.23 0)
@@ -4389,7 +4389,7 @@
     (pin "5" (uuid b66e99aa-50a0-4c0b-ac21-bacc1623fc07))
     (pin "6" (uuid 2fc0a8fd-2ca9-46f5-8fc6-cf81efd19b0e))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW14") (unit 1)
         )
@@ -4414,7 +4414,7 @@
     )
     (pin "1" (uuid ffda8758-eb49-46a9-9c58-ff4aafe409d9))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "#PWR08") (unit 1)
         )
@@ -4422,7 +4422,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 209.55 104.14 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 209.55 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba782040-e8fb-45fa-8bd9-1c263dfaf744)
     (property "Reference" "SW36" (at 209.55 98.425 0) (do_not_autoplace)
@@ -4431,7 +4431,7 @@
     (property "Value" "Key" (at 209.55 109.855 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 209.55 104.14 0)
+    (property "Footprint" "keyboard:Key" (at 209.55 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 209.55 104.14 0)
@@ -4444,7 +4444,7 @@
     (pin "5" (uuid e8667559-9f32-4380-a4bf-034682f8fe64))
     (pin "6" (uuid 5938d66d-b44f-4946-8e13-324abf033d07))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW36") (unit 1)
         )
@@ -4452,7 +4452,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 120.65 125.73 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 120.65 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c5a623db-78b5-42c6-a3ca-28541d6158e3)
     (property "Reference" "SW41" (at 120.65 120.015 0) (do_not_autoplace)
@@ -4461,7 +4461,7 @@
     (property "Value" "Key" (at 120.65 131.445 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 120.65 125.73 0)
+    (property "Footprint" "keyboard:Key" (at 120.65 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 120.65 125.73 0)
@@ -4474,7 +4474,7 @@
     (pin "5" (uuid 9cda22ac-ebb2-4bbe-85a4-41ba49c66de5))
     (pin "6" (uuid 023b4c36-eae9-45d6-a439-a5248d594bf8))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW41") (unit 1)
         )
@@ -4482,7 +4482,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 120.65 41.91 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 120.65 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c636d66c-884c-4495-bf7c-85ec8462f0a9)
     (property "Reference" "SW01" (at 120.65 36.195 0) (do_not_autoplace)
@@ -4491,7 +4491,7 @@
     (property "Value" "Key" (at 120.65 47.625 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 120.65 41.91 0)
+    (property "Footprint" "keyboard:Key" (at 120.65 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 120.65 41.91 0)
@@ -4504,7 +4504,7 @@
     (pin "5" (uuid 508315eb-8e2c-4b0a-8557-c41e1fb4c4b9))
     (pin "6" (uuid 5cc7f6e7-2142-4e1b-af21-6c3ef1913eeb))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW01") (unit 1)
         )
@@ -4512,7 +4512,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 209.55 125.73 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 209.55 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d3c09714-6175-4781-95f1-094dc41b4e42)
     (property "Reference" "SW46" (at 209.55 120.015 0) (do_not_autoplace)
@@ -4521,7 +4521,7 @@
     (property "Value" "Key" (at 209.55 131.445 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 209.55 125.73 0)
+    (property "Footprint" "keyboard:Key" (at 209.55 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 209.55 125.73 0)
@@ -4534,7 +4534,7 @@
     (pin "5" (uuid d9755547-165a-4a50-bf3b-665943903e7e))
     (pin "6" (uuid 6cbcb9da-2871-410b-a5ce-d83850429a19))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW46") (unit 1)
         )
@@ -4542,7 +4542,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 156.21 104.14 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 156.21 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d4898623-b2ba-45af-acc3-6c6505ce3313)
     (property "Reference" "SW33" (at 156.21 98.425 0) (do_not_autoplace)
@@ -4551,7 +4551,7 @@
     (property "Value" "Key" (at 156.21 109.855 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 156.21 104.14 0)
+    (property "Footprint" "keyboard:Key" (at 156.21 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 156.21 104.14 0)
@@ -4564,7 +4564,7 @@
     (pin "5" (uuid c2d7e7da-548e-4db2-afb5-130a515757ce))
     (pin "6" (uuid 1870b9db-5446-4f88-8b76-0833d4e56814))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW33") (unit 1)
         )
@@ -4572,7 +4572,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 191.77 41.91 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 191.77 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d6a507f8-75e6-4bf9-b668-c3536dad3a19)
     (property "Reference" "SW05" (at 191.77 36.195 0) (do_not_autoplace)
@@ -4581,7 +4581,7 @@
     (property "Value" "Key" (at 191.77 47.625 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:KeyLeft" (at 191.77 41.91 0)
+    (property "Footprint" "keyboard:KeyLeft" (at 191.77 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 191.77 41.91 0)
@@ -4594,7 +4594,7 @@
     (pin "5" (uuid e7b45413-3d01-4f91-922a-d2e06bcbab25))
     (pin "6" (uuid 9d11d43f-3c1b-4589-897d-3fcb1a0ea532))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW05") (unit 1)
         )
@@ -4602,7 +4602,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 138.43 125.73 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 138.43 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e230aef9-9645-47e9-ab3c-ee3b775eb0f0)
     (property "Reference" "SW42" (at 138.43 120.015 0) (do_not_autoplace)
@@ -4611,7 +4611,7 @@
     (property "Value" "Key" (at 138.43 131.445 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 138.43 125.73 0)
+    (property "Footprint" "keyboard:Key" (at 138.43 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 138.43 125.73 0)
@@ -4624,7 +4624,7 @@
     (pin "5" (uuid 80b0b10f-1442-4cf5-be1f-1b5f65841091))
     (pin "6" (uuid 0ad68ff9-a5d5-4ac8-89b7-118500779aa5))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW42") (unit 1)
         )
@@ -4632,7 +4632,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 209.55 62.23 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 209.55 62.23 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ea0cf0b8-d10e-490e-94dd-006f4b331459)
     (property "Reference" "SW16" (at 209.55 56.515 0) (do_not_autoplace)
@@ -4641,7 +4641,7 @@
     (property "Value" "Key" (at 209.55 67.945 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 209.55 62.23 0)
+    (property "Footprint" "keyboard:Key" (at 209.55 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 209.55 62.23 0)
@@ -4654,7 +4654,7 @@
     (pin "5" (uuid 945508e9-0d1a-4981-90ce-60c5362b76c3))
     (pin "6" (uuid 5694f87f-0a2f-497c-a111-f9d4e85aded5))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW16") (unit 1)
         )
@@ -4662,7 +4662,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 191.77 104.14 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 191.77 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ec44ae14-621a-47e9-bd33-99ec4e908745)
     (property "Reference" "SW35" (at 191.77 98.425 0) (do_not_autoplace)
@@ -4671,7 +4671,7 @@
     (property "Value" "Key" (at 191.77 109.855 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 191.77 104.14 0)
+    (property "Footprint" "keyboard:Key" (at 191.77 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 191.77 104.14 0)
@@ -4684,7 +4684,7 @@
     (pin "5" (uuid 28f84088-985b-479e-94bc-925760bc3033))
     (pin "6" (uuid fe5d42b2-4845-4ecd-a76c-61221d0d938e))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW35") (unit 1)
         )
@@ -4692,7 +4692,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 102.87 125.73 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 102.87 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f34cbab1-ae85-457e-9b08-8b1fedb0245d)
     (property "Reference" "SW40" (at 102.87 120.015 0) (do_not_autoplace)
@@ -4701,7 +4701,7 @@
     (property "Value" "Key" (at 102.87 131.445 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 102.87 125.73 0)
+    (property "Footprint" "keyboard:Key" (at 102.87 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 102.87 125.73 0)
@@ -4714,7 +4714,7 @@
     (pin "5" (uuid fa14bf7e-2556-43e9-8d99-ab371c33a924))
     (pin "6" (uuid f6485a12-d777-415d-bf8b-83263c41b0fa))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW40") (unit 1)
         )
@@ -4722,7 +4722,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:Key") (at 227.33 104.14 0) (unit 1)
+  (symbol (lib_id "keyboard:Key") (at 227.33 104.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f6328fb0-36a8-4240-a367-036fd92afbb3)
     (property "Reference" "SW37" (at 227.33 98.425 0) (do_not_autoplace)
@@ -4731,7 +4731,7 @@
     (property "Value" "Key" (at 227.33 109.855 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:Key" (at 227.33 104.14 0)
+    (property "Footprint" "keyboard:Key" (at 227.33 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 227.33 104.14 0)
@@ -4744,7 +4744,7 @@
     (pin "5" (uuid 720638ae-4909-4bf2-87c7-094f8b76feae))
     (pin "6" (uuid 25fad275-987a-4f67-ba65-d877f2b80cac))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "SW37") (unit 1)
         )
@@ -4752,7 +4752,7 @@
     )
   )
 
-  (symbol (lib_id "myles-keyboard:ProMicro") (at 53.34 46.99 0) (unit 1)
+  (symbol (lib_id "keyboard:ProMicro") (at 53.34 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f6fff035-2179-4748-9f1e-9514dd0a4a76)
     (property "Reference" "U1" (at 53.34 46.99 0) (do_not_autoplace)
@@ -4761,7 +4761,7 @@
     (property "Value" "ProMicro" (at 53.34 49.53 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "myles-keyboard:ProMicro" (at 52.07 44.45 0)
+    (property "Footprint" "keyboard:ProMicro" (at 52.07 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 52.07 44.45 0)
@@ -4792,7 +4792,7 @@
     (pin "8" (uuid 806eff25-3ec7-41b9-9dbb-6622bbbfc5c8))
     (pin "9" (uuid 289ef4d6-7aa8-4cd1-8bdd-92a4622482a9))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "U1") (unit 1)
         )
@@ -4809,7 +4809,7 @@
     (property "Value" "R" (at 53.34 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "myles-keyboard:SDR18" (at 53.34 90.678 90)
+    (property "Footprint" "keyboard:SDR18" (at 53.34 90.678 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 53.34 88.9 0)
@@ -4818,7 +4818,7 @@
     (pin "1" (uuid 80b98de8-acc0-4721-936a-0399457a4865))
     (pin "2" (uuid 1cc24c20-bb02-43d9-85bb-9d57a1def35a))
     (instances
-      (project "myles-keyboard"
+      (project "keyboard"
         (path "/55a8c568-8b67-4781-bca4-b9ba3160a3cd"
           (reference "R2") (unit 1)
         )

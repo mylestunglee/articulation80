@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "myles-keyboard")(type "KiCad")(uri "${KIPRJMOD}/myles-keyboard.pretty")(options "")(descr ""))
+  (lib (name "keyboard")(type "KiCad")(uri "${KIPRJMOD}/keyboard.pretty")(options "")(descr ""))
 )

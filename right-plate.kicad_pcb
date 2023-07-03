@@ -77,7 +77,7 @@
 
   (net 0 "")
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 07b4402b-f860-45c4-9725-97dfb11c72e5)
     (at 154.552801 93.512815 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
@@ -92,7 +92,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 80c96250-8ac9-4d8e-82dc-fcc04b8d1196))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 216bb952-8293-443d-8cd1-af24cb8cba7f)
     (at 119.449871 56.311832 -5)
     (fp_text reference "REF**" (at 0 0 -5 unlocked) (layer "F.Fab") hide
@@ -107,7 +107,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8726119a-48a0-4fb6-a887-97d9677fd489))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 236faef9-d3eb-4d42-bd06-92af72e51e61)
     (at 97.78 42.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
@@ -122,7 +122,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1c13a7aa-900e-48f8-aee1-6e16988bd6ca))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 23735e80-c67f-4e85-8b93-c37eeb481cf3)
     (at 228.568909 109.117579 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -137,7 +137,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp d1ebd99e-e672-4f7f-8a57-35443e04e443))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 36089a5e-ca9e-4d65-af91-ac1bf6d75e39)
     (at 120.931519 39.376522 -5)
     (fp_text reference "REF**" (at 0 0 -5 unlocked) (layer "F.Fab") hide
@@ -152,7 +152,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f08821e0-be9e-48bd-8495-455a8fa250ed))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 3b8da0ea-693f-49e2-bfa9-ba74ea2389b2)
     (at 60.145785 103.89932 25)
     (fp_text reference "REF**" (at 0 0 25 unlocked) (layer "F.Fab") hide
@@ -167,7 +167,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp a308667f-7bf0-4bbb-8a4d-a1e42de20f26))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 3ed1508f-aea2-4286-96be-27f5eb6aa42c)
     (at 193.11583 102.866244 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -182,7 +182,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f90f7a4c-61bf-4fc0-8412-02b5f0e9497e))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 40387ccc-b266-4d45-950a-ef9500afb403)
     (at 134.332871 96.697962 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -197,7 +197,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 800a422b-80e9-45b0-8708-c66f1073cbca))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 46afc905-9b30-42b3-a6c4-b8cdf40042c7)
     (at 137.28489 79.95623 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -212,7 +212,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 27a909bf-6865-49df-9e8a-1ad65030793b))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 476f4367-08d8-4d8e-9a14-7ce730430a96)
     (at 106.512436 112.397684 -5)
     (fp_text reference "REF**" (at 0 0 -5 unlocked) (layer "F.Fab") hide
@@ -227,7 +227,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 98fbb3cb-2840-4b71-90b9-7f8f18194aa6))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 5d3512e0-7d87-4ec4-934c-f5ce626f7e50)
     (at 79.78 42.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
@@ -242,7 +242,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fefff119-f133-4d05-bab5-869c01a9dff1))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 6369de75-d562-42f9-bad6-5c1bde3df30c)
     (at 216.746408 72.508448 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -257,7 +257,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e4b5bec6-6766-4f09-a3f8-0477b710dd8a))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 654b0f40-0220-45d5-ae70-4403edaee346)
     (at 176.33939 81.750818 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
@@ -272,7 +272,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 620512be-90df-4155-bc49-f87b0457a75e))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 6b0c1d95-f72e-452a-9cee-72153c06076d)
     (at 213.794389 89.25018 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -287,7 +287,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp ce7bcef2-6734-4b0d-83d7-c9f488ec6e1c))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 6d15862e-7a8f-44d9-995e-e377f59f9a01)
     (at 171.939466 98.171557 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
@@ -302,7 +302,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 437d8bee-013a-4411-af3e-90d1c345342f))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 6f2e8df3-1bcd-403a-9fe1-5ed110758b63)
     (at 130.564865 113.295813 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -317,7 +317,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 59ce3112-7585-413d-8b73-8a52e9aa3588))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 73a39107-b18f-4a19-8a21-3a9c51edb42f)
     (at 234.472947 75.634115 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -332,7 +332,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp cd5d6edc-fafb-4c69-8fae-723808ad9fe8))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 749a8ad2-ebd7-4b29-a9f9-bfd9f32df5e4)
     (at 116.486576 90.182451 -5)
     (fp_text reference "REF**" (at 0 0 -5 unlocked) (layer "F.Fab") hide
@@ -347,7 +347,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b32d442f-40e7-4671-b1e9-8f3f0271dc45))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 7ff14141-d7ff-48b4-a464-1d16b2884e6d)
     (at 140.236909 63.214498 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -362,7 +362,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 438fd783-3fd4-4d78-b23d-eae7e9840f56))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 801fce2c-0f6c-4d47-87f6-0829ebb2ad76)
     (at 231.520928 92.375847 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -377,7 +377,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c4ca319e-bd65-4fa0-8bb4-b855ae3ec78f))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 81d867af-3190-4a15-8506-542b16aa911c)
     (at 150.152878 109.933554 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
@@ -392,7 +392,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9ba05b72-c46d-46a2-9c02-3621e3540310))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 82b36b3f-6b21-4f96-ae57-a202b3ba4058)
     (at 79.78 93.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
@@ -407,7 +407,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp c4775e00-799a-47fa-b347-ad7cf9211f26))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 831da5e3-504f-4267-808f-39fa8983681e)
     (at 117.968224 73.247142 -5)
     (fp_text reference "REF**" (at 0 0 -5 unlocked) (layer "F.Fab") hide
@@ -422,7 +422,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 0b4f49ac-4e3e-41ee-9be9-9fe9a73ffc3f))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 8806d08f-36ea-4666-91b6-b10d40ae9c48)
     (at 199.019868 69.382781 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -437,7 +437,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 5e3932f6-c445-4ddf-8d72-d2726b900787))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 8f5a1f45-cd02-4d8e-b3a6-20d8f3fb757f)
     (at 97.78 59.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
@@ -452,7 +452,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8b09217b-260d-4819-87f8-af9f5827be34))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 9766f0d9-3675-4c89-8ce4-3f1188118ae9)
     (at 190.163811 119.607976 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -467,7 +467,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp dc89b371-2d0d-46b2-9ead-b5253608b0ef))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp 9e670524-2f7f-455f-b919-2b1e92bcb880)
     (at 158.952725 77.092076 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
@@ -482,7 +482,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 1a5c2ab2-91bc-44ef-a1a7-5c34c1b3d538))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp a3407751-473a-4cd6-b963-c9e90f47c1ae)
     (at 207.890351 122.733643 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -497,7 +497,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp bbabe9c9-dd1f-4a3c-8348-b47a7d818fb9))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp a4a6e3d0-52f6-423c-9bfb-8c650db56f33)
     (at 210.84237 105.991911 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -512,7 +512,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 2dfb45ea-e97a-4b5b-8c0a-619c633ebf2f))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp a94c7c76-438e-4361-8444-616fc6a49e6f)
     (at 67.330295 119.306552 25)
     (fp_text reference "REF**" (at 0 0 25 unlocked) (layer "F.Fab") hide
@@ -527,7 +527,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp fd1ba664-ef67-4147-b83a-326ca8837f99))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp c3f9a85c-5d78-4264-a595-ad56117b1e49)
     (at 225.61689 125.85931 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -542,7 +542,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 4402790e-08bb-417c-a8a6-7f89ce771195))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp c618582b-e5af-4383-9d5d-3c157a8d7ebf)
     (at 167.539542 114.592296 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
@@ -557,7 +557,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 8d445a9f-f53a-4751-afc4-8b35e50e33d0))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp c8c03d19-d23d-42c9-97e0-d90893f0d3aa)
     (at 86.466581 113.272904 10)
     (fp_text reference "REF**" (at 0 0 10 unlocked) (layer "F.Fab") hide
@@ -572,7 +572,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e2dc7a15-1f99-417a-9c63-dbd53f5e7b20))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp ce926857-3178-4a60-9a05-12b1830a9d26)
     (at 163.352649 60.671336 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
@@ -587,7 +587,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 98662d3b-0c43-41df-85f4-ea577543cda5))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp d5f88821-296a-4f7c-bf6f-93d1d7327409)
     (at 143.188928 46.472766 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -602,7 +602,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp b267d5c0-dc7d-4ac7-a3bb-266d3c322bc4))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp ddaa27ac-dc93-41b3-9147-f362eca26edb)
     (at 97.78 76.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
@@ -617,7 +617,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 30a054d7-531c-4584-b72a-ac7ebdad4749))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp ddc9e143-011e-48fc-b138-cbe2331de9c1)
     (at 97.78 93.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
@@ -632,7 +632,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp e09e5763-82f5-4fe9-a76d-1d7f5c6adbab))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp e76a9a19-4b4d-4646-a0e1-da64f02afac4)
     (at 50.124844 130.087443 40)
     (fp_text reference "REF**" (at 0 0 40 unlocked) (layer "F.Fab") hide
@@ -647,7 +647,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f967f5d9-1bda-4850-8efd-988471f42cef))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp ebbe013c-5735-41d9-af02-b514bdb86ee0)
     (at 196.067849 86.124512 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
@@ -662,7 +662,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 19d34e66-a9cb-4f3d-a108-680a06802f4a))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp eeae018a-293e-42f5-ac79-c2de0180f89f)
     (at 79.78 59.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
@@ -677,7 +677,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 89cc5ff5-0503-4e14-aa00-24ad2816cbb5))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp f1f421e4-296a-467e-a9ad-c441808bf53f)
     (at 180.739314 65.330079 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
@@ -692,7 +692,7 @@
       (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp f02b5c82-3a95-466c-aea0-7a836a558fb1))
   )
 
-  (footprint "myles-keyboard:KeyHole" (layer "F.Cu")
+  (footprint "keyboard:KeyHole" (layer "F.Cu")
     (tstamp ff92d96c-071e-47b1-a2c1-1466223dd49e)
     (at 79.78 76.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide

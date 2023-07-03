@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('KiCad electronic assembly'),'2;1');
-FILE_NAME('right plate.step','2023-06-21T15:33:48',('Pcbnew'),('Kicad'),
+FILE_NAME('right-plate.step','2023-06-21T15:33:48',('Pcbnew'),('Kicad'),
   'Open CASCADE STEP processor 7.6','KiCad to STEP converter','Unknown'
   );
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
@@ -15,7 +15,7 @@ DATA;
 #4 = PRODUCT_DEFINITION_SHAPE('','',#5);
 #5 = PRODUCT_DEFINITION('design','',#6,#9);
 #6 = PRODUCT_DEFINITION_FORMATION('','',#7);
-#7 = PRODUCT('right plate 1','right plate 1','',(#8));
+#7 = PRODUCT('right-plate 1','right-plate 1','',(#8));
 #8 = PRODUCT_CONTEXT('',#2,'mechanical');
 #9 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #10 = SHAPE_REPRESENTATION('',(#11,#15),#19);
@@ -41,7 +41,7 @@ GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT((#23)) GLOBAL_UNIT_ASSIGNED_CONTEXT(
 #26 = PRODUCT_DEFINITION_SHAPE('','',#27);
 #27 = PRODUCT_DEFINITION('design','',#28,#31);
 #28 = PRODUCT_DEFINITION_FORMATION('','',#29);
-#29 = PRODUCT('right plate PCB','right plate PCB','',(#30));
+#29 = PRODUCT('right-plate PCB','right-plate PCB','',(#30));
 #30 = PRODUCT_CONTEXT('',#2,'mechanical');
 #31 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #32 = ADVANCED_BREP_SHAPE_REPRESENTATION('',(#11,#33),#27987);
