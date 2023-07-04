@@ -78,7 +78,7 @@
   (net 0 "")
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 07b4402b-f860-45c4-9725-97dfb11c72e5)
+    (tedit 64a421e8) (tstamp 07b4402b-f860-45c4-9725-97dfb11c72e5)
     (at 154.552801 93.512815 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -92,7 +92,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 216bb952-8293-443d-8cd1-af24cb8cba7f)
+    (tedit 64a421e8) (tstamp 216bb952-8293-443d-8cd1-af24cb8cba7f)
     (at 119.449871 56.311832 -5)
     (fp_text reference "REF**" (at 0 0 -5 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -106,7 +106,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 3b8da0ea-693f-49e2-bfa9-ba74ea2389b2)
+    (tedit 64a421e8) (tstamp 3b8da0ea-693f-49e2-bfa9-ba74ea2389b2)
     (at 61.201051 102.753693 25)
     (fp_text reference "REF**" (at 0 0 25 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -120,7 +120,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 40387ccc-b266-4d45-950a-ef9500afb403)
+    (tedit 64a421e8) (tstamp 40387ccc-b266-4d45-950a-ef9500afb403)
     (at 134.332871 96.697962 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -134,7 +134,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 46afc905-9b30-42b3-a6c4-b8cdf40042c7)
+    (tedit 64a421e8) (tstamp 46afc905-9b30-42b3-a6c4-b8cdf40042c7)
     (at 137.28489 79.95623 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -148,7 +148,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 476f4367-08d8-4d8e-9a14-7ce730430a96)
+    (tedit 64a421e8) (tstamp 476f4367-08d8-4d8e-9a14-7ce730430a96)
     (at 107.567703 111.252057 -5)
     (fp_text reference "REF**" (at 0 0 -5 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -162,7 +162,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 654b0f40-0220-45d5-ae70-4403edaee346)
+    (tedit 64a421e8) (tstamp 654b0f40-0220-45d5-ae70-4403edaee346)
     (at 176.33939 81.750818 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -176,7 +176,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 6d15862e-7a8f-44d9-995e-e377f59f9a01)
+    (tedit 64a421e8) (tstamp 6d15862e-7a8f-44d9-995e-e377f59f9a01)
     (at 171.939466 98.171557 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -190,21 +190,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 6f2e8df3-1bcd-403a-9fe1-5ed110758b63)
-    (at 125.654248 113.020897 -6.171)
-    (fp_text reference "REF**" (at 0 0 -6.171 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 28a7fa34-a926-468e-9c75-649065de864f)
-    )
-    (fp_text value "KeyHole" (at 0 2 -6.171 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.125)))
-      (tstamp 873d6d03-60ad-45e2-bfe5-95730478bcd3)
-    )
-    (fp_rect (start -7 -7) (end 7 7) (layer "Edge.Cuts") (stroke (width 0.12) (type default)) (fill none) (tstamp 4a1947c0-01e9-4ef7-8cda-8e5a009a92f3))
-  )
-
-  (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 749a8ad2-ebd7-4b29-a9f9-bfd9f32df5e4)
+    (tedit 64a421e8) (tstamp 749a8ad2-ebd7-4b29-a9f9-bfd9f32df5e4)
     (at 116.486576 90.182451 -5)
     (fp_text reference "REF**" (at 0 0 -5 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -218,7 +204,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 7ff14141-d7ff-48b4-a464-1d16b2884e6d)
+    (tedit 64a421e8) (tstamp 7ff14141-d7ff-48b4-a464-1d16b2884e6d)
     (at 140.236909 63.214498 -10)
     (fp_text reference "REF**" (at 0 0 -10 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -232,7 +218,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 81d867af-3190-4a15-8506-542b16aa911c)
+    (tedit 64a421e8) (tstamp 81d867af-3190-4a15-8506-542b16aa911c)
     (at 150.152878 109.933554 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -246,7 +232,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 82b36b3f-6b21-4f96-ae57-a202b3ba4058)
+    (tedit 64a421e8) (tstamp 82b36b3f-6b21-4f96-ae57-a202b3ba4058)
     (at 79.78 93.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -260,7 +246,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 831da5e3-504f-4267-808f-39fa8983681e)
+    (tedit 64a421e8) (tstamp 831da5e3-504f-4267-808f-39fa8983681e)
     (at 117.968224 73.247142 -5)
     (fp_text reference "REF**" (at 0 0 -5 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -274,7 +260,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 8f5a1f45-cd02-4d8e-b3a6-20d8f3fb757f)
+    (tedit 64a421e8) (tstamp 8f5a1f45-cd02-4d8e-b3a6-20d8f3fb757f)
     (at 97.78 59.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -288,7 +274,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp 9e670524-2f7f-455f-b919-2b1e92bcb880)
+    (tedit 64a421e8) (tstamp 9e670524-2f7f-455f-b919-2b1e92bcb880)
     (at 158.952725 77.092076 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -302,7 +288,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp a94c7c76-438e-4361-8444-616fc6a49e6f)
+    (tedit 64a421e8) (tstamp a94c7c76-438e-4361-8444-616fc6a49e6f)
     (at 68.385562 118.160925 25)
     (fp_text reference "REF**" (at 0 0 25 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -316,7 +302,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp c618582b-e5af-4383-9d5d-3c157a8d7ebf)
+    (tedit 64a421e8) (tstamp c618582b-e5af-4383-9d5d-3c157a8d7ebf)
     (at 167.539542 114.592296 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -330,7 +316,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp c8c03d19-d23d-42c9-97e0-d90893f0d3aa)
+    (tedit 64a421e8) (tstamp c8c03d19-d23d-42c9-97e0-d90893f0d3aa)
     (at 87.521848 112.127278 10)
     (fp_text reference "REF**" (at 0 0 10 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -344,7 +330,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp ce926857-3178-4a60-9a05-12b1830a9d26)
+    (tedit 64a421e8) (tstamp ce926857-3178-4a60-9a05-12b1830a9d26)
     (at 163.352649 60.671336 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -358,7 +344,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp ddaa27ac-dc93-41b3-9147-f362eca26edb)
+    (tedit 64a421e8) (tstamp ddaa27ac-dc93-41b3-9147-f362eca26edb)
     (at 97.78 76.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -372,7 +358,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp ddc9e143-011e-48fc-b138-cbe2331de9c1)
+    (tedit 64a421e8) (tstamp ddc9e143-011e-48fc-b138-cbe2331de9c1)
     (at 97.78 93.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -386,21 +372,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp e76a9a19-4b4d-4646-a0e1-da64f02afac4)
-    (at 51.462952 128.941816 40)
-    (fp_text reference "REF**" (at 0 0 40 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.1)))
-      (tstamp 2488dd4c-d8fe-4730-b815-36b455847117)
-    )
-    (fp_text value "KeyHole" (at 0 2 40 unlocked) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.125)))
-      (tstamp e5e4f6a5-e535-4ad8-bd5b-e17508e42d16)
-    )
-    (fp_rect (start -7 -7) (end 7 7) (layer "Edge.Cuts") (stroke (width 0.12) (type default)) (fill none) (tstamp 31c4ecac-2d61-4aa9-9d81-61fe1c856d51))
-  )
-
-  (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp eeae018a-293e-42f5-ac79-c2de0180f89f)
+    (tedit 64a421e8) (tstamp eeae018a-293e-42f5-ac79-c2de0180f89f)
     (at 79.78 59.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -414,7 +386,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp f1f421e4-296a-467e-a9ad-c441808bf53f)
+    (tedit 64a421e8) (tstamp f1f421e4-296a-467e-a9ad-c441808bf53f)
     (at 180.739314 65.330079 -15)
     (fp_text reference "REF**" (at 0 0 -15 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -428,7 +400,7 @@
   )
 
   (footprint "keyboard:KeyHole" (layer "F.Cu")
-    (tedit 64a2f1bc) (tstamp ff92d96c-071e-47b1-a2c1-1466223dd49e)
+    (tedit 64a421e8) (tstamp ff92d96c-071e-47b1-a2c1-1466223dd49e)
     (at 79.78 76.5)
     (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.1)))
@@ -441,45 +413,41 @@
     (fp_rect (start -7 -7) (end 7 7) (layer "Edge.Cuts") (stroke (width 0.12) (type default)) (fill none) (tstamp 05ab0349-f125-4a23-ab98-725409afd0da))
   )
 
-  (gr_arc (start 57.569435 136.219239) (mid 80.612677 123.577284) (end 106.739723 120.715907) (layer "Edge.Cuts") (width 0.12) (tstamp 084d06f7-fe84-42a4-b9d2-3c34554dde8d))
   (gr_arc (start 97.78 50) (mid 103.382237 50.061789) (end 108.981748 50.247127) (layer "Edge.Cuts") (width 0.12) (tstamp 0c6fc847-2013-43ac-b26a-a019e1527834))
   (gr_arc (start 110.022044 49.335256) (mid 109.685013 50.000098) (end 108.981748 50.247126) (layer "Edge.Cuts") (width 0.12) (tstamp 11abae07-5145-4e46-9a9d-65a8ad1e7d1f))
-  (gr_line (start 48.545718 99.276259) (end 54.828214 112.749115) (layer "Edge.Cuts") (width 0.12) (tstamp 142bec21-7ee2-4e7f-a0e5-aa76731626e3))
+  (gr_line (start 48.545718 99.276259) (end 62.914739 130.090724) (layer "Edge.Cuts") (width 0.12) (tstamp 142bec21-7ee2-4e7f-a0e5-aa76731626e3))
   (gr_line (start 69.78 51) (end 69.78 84.02) (layer "Edge.Cuts") (width 0.12) (tstamp 24aba68e-9a03-49f0-9e8a-70d743af3a25))
   (gr_line (start 110.228748 46.972619) (end 110.022044 49.335256) (layer "Edge.Cuts") (width 0.12) (tstamp 340d1bd1-ecad-42a8-88cb-404e867844f0))
   (gr_arc (start 55.041575 94.040436) (mid 55.07496 94.805074) (end 54.557885 95.369362) (layer "Edge.Cuts") (width 0.12) (tstamp 367e5a80-e14c-4c05-9e11-4b427dc470c6))
-  (gr_line (start 54.564694 113.937777) (end 38.46207 127.449483) (layer "Edge.Cuts") (width 0.12) (tstamp 43ec3ab4-a9f6-4541-acc5-b9817edda22c))
+  (gr_arc (start 117.519499 112.23964) (mid 117.942117 111.507643) (end 118.774513 111.36087) (layer "Edge.Cuts") (width 0.12) (tstamp 3b39b09a-19d5-4cd8-beb0-b042978e3f21))
   (gr_line (start 141.886567 53.858826) (end 153.339152 55.878225) (layer "Edge.Cuts") (width 0.12) (tstamp 4b7f4d9d-fa27-4ad5-a774-3d4a1e1b4d09))
   (gr_arc (start 69.78 84.02) (mid 69.487107 84.727107) (end 68.78 85.02) (layer "Edge.Cuts") (width 0.12) (tstamp 4d051e1e-7166-469a-bc4b-f132059b72f5))
   (gr_arc (start 129.243603 47.632383) (mid 129.922491 47.98579) (end 130.152642 48.715734) (layer "Edge.Cuts") (width 0.12) (tstamp 520e0aec-375c-4c63-8a88-b11f4efe562a))
-  (gr_line (start 135.17438 116.970262) (end 134.720331 122.160072) (layer "Edge.Cuts") (width 0.12) (tstamp 58e168b2-ed83-45e7-b117-dbef6e8d5653))
+  (gr_arc (start 116.788826 120.591269) (mid 116.435419 121.270158) (end 115.705476 121.500308) (layer "Edge.Cuts") (width 0.12) (tstamp 55821f72-eb82-438c-8bdc-26aa045e1fd2))
   (gr_line (start 174.998839 125.390856) (end 192.598534 59.7079) (layer "Edge.Cuts") (width 0.12) (tstamp 5a855279-0b09-4e68-8c5c-a9ed81105783))
   (gr_line (start 54.557885 95.369362) (end 49.029408 97.947333) (layer "Edge.Cuts") (width 0.12) (tstamp 625d3d21-6a82-48ab-88dd-cf5e5aa89ce5))
-  (gr_line (start 173.774094 126.097963) (end 136.429395 116.091481) (layer "Edge.Cuts") (width 0.12) (tstamp 648955a1-b052-40c2-b29f-a7ecf9e999df))
-  (gr_arc (start 135.17438 116.970262) (mid 135.596995 116.238258) (end 136.429395 116.091481) (layer "Edge.Cuts") (width 0.12) (tstamp 6ed45ab9-ee05-4481-bcfb-3426c9641625))
+  (gr_arc (start 64.243674 130.57441) (mid 63.479031 130.6078) (end 62.914739 130.090724) (layer "Edge.Cuts") (width 0.12) (tstamp 63d670f2-7cc3-4f0c-9584-282bb971c351))
+  (gr_line (start 173.774094 126.097963) (end 118.774513 111.36087) (layer "Edge.Cuts") (width 0.12) (tstamp 648955a1-b052-40c2-b29f-a7ecf9e999df))
+  (gr_line (start 64.243674 130.574409) (end 72.400435 126.770849) (layer "Edge.Cuts") (width 0.12) (tstamp 7de49209-5b6c-4164-b028-52b3886b70c6))
   (gr_line (start 70.78 50) (end 97.78 50) (layer "Edge.Cuts") (width 0.12) (tstamp 8e32f654-41a3-4d53-8567-da82df39ef96))
-  (gr_line (start 133.63698 123.069111) (end 106.739723 120.715906) (layer "Edge.Cuts") (width 0.12) (tstamp 9001bffc-2619-4488-b1b4-978b8bf79496))
+  (gr_line (start 115.705476 121.500308) (end 106.739723 120.715906) (layer "Edge.Cuts") (width 0.12) (tstamp 9001bffc-2619-4488-b1b4-978b8bf79496))
   (gr_line (start 191.891427 58.483155) (end 157.118097 49.16567) (layer "Edge.Cuts") (width 0.12) (tstamp 9344c599-3279-4e26-9212-be4c6e1d75bd))
   (gr_arc (start 174.998839 125.390856) (mid 174.532913 125.998062) (end 173.774094 126.097963) (layer "Edge.Cuts") (width 0.12) (tstamp 942e1d8c-b5eb-45ba-bcce-c3af2e2dfd62))
   (gr_arc (start 110.228748 46.972619) (mid 110.582155 46.293731) (end 111.312099 46.06358) (layer "Edge.Cuts") (width 0.12) (tstamp a3af55d4-a5e7-45bb-a108-3cddef6a2584))
   (gr_line (start 129.945938 51.07837) (end 130.152642 48.715734) (layer "Edge.Cuts") (width 0.12) (tstamp a6a5f166-3d0d-4567-92e1-8cdb81b0f8a9))
-  (gr_line (start 50.675035 142.004327) (end 57.569435 136.219239) (layer "Edge.Cuts") (width 0.12) (tstamp b151ed27-4734-4f13-b9d1-6c5319a23111))
-  (gr_arc (start 50.675034 142.004326) (mid 49.945092 142.234476) (end 49.266203 141.88107) (layer "Edge.Cuts") (width 0.12) (tstamp b44e0991-318a-4a7c-bfd5-c2414e996c3c))
   (gr_line (start 155.893352 49.872776) (end 154.478726 55.152236) (layer "Edge.Cuts") (width 0.12) (tstamp b97018a4-f94c-4d7e-b902-42fbe45698ad))
-  (gr_arc (start 54.828213 112.749115) (mid 54.898201 113.388172) (end 54.564693 113.937776) (layer "Edge.Cuts") (width 0.12) (tstamp c0a1f344-593c-4ac4-ada4-5cb1329f1f81))
-  (gr_line (start 49.266203 141.88107) (end 38.338813 128.858315) (layer "Edge.Cuts") (width 0.12) (tstamp d5767fba-3e4f-40dc-b295-f0a2c0eff47a))
+  (gr_line (start 117.519499 112.23964) (end 116.788826 120.591269) (layer "Edge.Cuts") (width 0.12) (tstamp b9f3d88d-cad3-42d5-a0da-df2cb561d670))
   (gr_arc (start 130.812085 52.157035) (mid 130.162398 51.791639) (end 129.945937 51.07837) (layer "Edge.Cuts") (width 0.12) (tstamp d9baf1a5-ea0b-4272-a535-d7e129d27db7))
   (gr_arc (start 48.545718 99.276259) (mid 48.512333 98.511621) (end 49.029408 97.947333) (layer "Edge.Cuts") (width 0.12) (tstamp dd193721-61c1-4692-8a0e-b9f1c287ace0))
   (gr_arc (start 51.498654 86.442618) (mid 51.561571 85.4827) (end 52.404962 85.02) (layer "Edge.Cuts") (width 0.12) (tstamp e018c2a9-8f1a-4ddc-bb52-a0bfc2b5edec))
   (gr_line (start 55.041575 94.040436) (end 51.498654 86.442618) (layer "Edge.Cuts") (width 0.12) (tstamp e46b3547-52c7-4b5a-a030-f9f00bf45449))
   (gr_arc (start 130.812085 52.157035) (mid 136.358711 52.946858) (end 141.886567 53.858826) (layer "Edge.Cuts") (width 0.12) (tstamp e5ba7ecf-ad9f-4468-a564-4428480249d1))
-  (gr_arc (start 134.720331 122.160072) (mid 134.366924 122.838961) (end 133.63698 123.069112) (layer "Edge.Cuts") (width 0.12) (tstamp e73987fd-aee8-409e-9ac5-fa529876f5f8))
   (gr_line (start 52.404962 85.02) (end 68.78 85.02) (layer "Edge.Cuts") (width 0.12) (tstamp e7c28f80-b551-4abd-9bb4-d462380faedb))
   (gr_arc (start 191.891427 58.483155) (mid 192.498633 58.949081) (end 192.598534 59.7079) (layer "Edge.Cuts") (width 0.12) (tstamp e98d3a4c-81e5-48a5-8ee4-b3ffa4790d9e))
   (gr_arc (start 69.78 51) (mid 70.072893 50.292893) (end 70.78 50) (layer "Edge.Cuts") (width 0.12) (tstamp eed29672-a0c4-46a3-be66-3da32c29a407))
   (gr_line (start 129.243603 47.632384) (end 111.312099 46.06358) (layer "Edge.Cuts") (width 0.12) (tstamp f0b04df0-9184-46d3-96e9-86bb3e46cc42))
   (gr_arc (start 155.893352 49.872776) (mid 156.359278 49.26557) (end 157.118097 49.16567) (layer "Edge.Cuts") (width 0.12) (tstamp f3a6407b-a308-4d02-ba70-73d2f709c498))
   (gr_arc (start 154.478726 55.152236) (mid 154.050098 55.736805) (end 153.339152 55.878225) (layer "Edge.Cuts") (width 0.12) (tstamp f831150f-b836-4664-b8d1-700dba2424b5))
-  (gr_arc (start 38.338814 128.858315) (mid 38.108663 128.128372) (end 38.46207 127.449483) (layer "Edge.Cuts") (width 0.12) (tstamp fd813861-b98c-44ed-b939-0c06e11cb57b))
+  (gr_arc (start 72.400435 126.770849) (mid 89.171505 121.482954) (end 106.739723 120.715906) (layer "Edge.Cuts") (width 0.12) (tstamp fff65a49-40ea-4d5c-a2ed-e76b909cf115))
 
 )
