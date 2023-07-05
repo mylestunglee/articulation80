@@ -11,8 +11,8 @@
       "images": 1.0,
       "pads": 0.3199999928474426,
       "tracks": 1.0,
-      "vias": 1.0,
-      "zones": 0.20999999344348907
+      "vias": 0.6200000047683716,
+      "zones": 0.30000001192092896
     },
     "selection_filter": {
       "dimensions": true,
@@ -38,6 +38,7 @@
       9,
       10,
       11,
+      12,
       13,
       15,
       16,
@@ -56,13 +57,12 @@
       29,
       30,
       32,
-      33,
       34,
       35,
       36,
       40
     ],
-    "visible_layers": "ffe1e23_ffffffff",
+    "visible_layers": "ffcfe23_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
