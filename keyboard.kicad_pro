@@ -112,7 +112,7 @@
       "rules": {
         "max_error": 0.005,
         "min_clearance": 0.25,
-        "min_connection": 0.25,
+        "min_connection": 0.24999,
         "min_copper_edge_clearance": 0.49999899999999997,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
