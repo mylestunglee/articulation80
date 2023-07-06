@@ -253,7 +253,7 @@
     (property "Reference" "SW1" (at 0 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "PTS525" (at 0 6.35 0)
+    (property "Value" "PTS525" (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "" (at 0 9.525 0)

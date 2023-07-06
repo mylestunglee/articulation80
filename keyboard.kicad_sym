@@ -249,11 +249,11 @@
       )
     )
   )
-  (symbol "PTS525" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "PTS526" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "SW1" (at 0 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "PTS525" (at 0 -7.62 0)
+    (property "Value" "PTS526" (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "" (at 0 9.525 0)
@@ -262,7 +262,7 @@
     (property "Datasheet" "" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "PTS525_0_1"
+    (symbol "PTS526_0_1"
       (circle (center 0 -1.905) (radius 0.635)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -285,14 +285,6 @@
       )
       (polyline
         (pts
-          (xy -0.635 -1.905)
-          (xy -2.54 1.905)
-        )
-        (stroke (width 0) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
           (xy 0 -2.54)
           (xy 0 -3.81)
         )
@@ -307,6 +299,14 @@
         (stroke (width 0) (type default))
         (fill (type none))
       )
+      (polyline
+        (pts
+          (xy 1.5875 -1.905)
+          (xy 0.635 1.905)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
       (circle (center 0 1.905) (radius 0.635)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -316,7 +316,7 @@
         (number "1" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "PTS525_1_1"
+    (symbol "PTS526_1_1"
       (pin passive line (at 5.08 3.81 180) (length 2.54)
         (name "2" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))

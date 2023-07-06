@@ -137,7 +137,7 @@
   (pad "22" thru_hole circle (at -8.89 -7.62) (size 1.7526 1.7526) (drill 1.0922) (layers "*.Cu" "*.Mask") (tstamp a8a39817-340b-44df-86be-8b78fa6afa82))
   (pad "23" thru_hole circle (at -11.43 -7.62) (size 1.7526 1.7526) (drill 1.0922) (layers "*.Cu" "*.Mask") (tstamp cbe11591-1973-4ba1-a4d2-1fbaddd5a707))
   (pad "24" thru_hole circle (at -13.97 -7.62) (size 1.7526 1.7526) (drill 1.0922) (layers "*.Cu" "*.Mask") (tstamp 1117de7a-a75e-44d7-adc3-48781b517096))
-  (model "C:/Users/Myles/Desktop/keyboards/kicad-lib-arduino/Arduino.3dshapes/sparkfun_pro_micro.x3d"
+  (model "${KIPRJMOD}/3dmodels/sparkfun_pro_micro.x3d"
     (offset (xyz 14 7.62 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
