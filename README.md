@@ -10,6 +10,7 @@ It features:
 - Serial or I2C connection between halves
 - Pro Micro-compatible controller support
 - Choc spacing
+- Hot-swappable
 - No branding! If you are building this, you may want to add silk-screen to make soldering easier.
 
 I took inspiration from many keyboards:
@@ -57,9 +58,10 @@ This build is very similar to existing keyboards. Please refer to the inspired k
 | Reset button          | 2      | Optional, PTS526 SM15 SMTR2 LFS recommended|
 | Resistors             | 2      | Optional, for I2C connection, RC1206FR-074K7 |
 | Diode                 | 80*    | SMD only, 1N4148W-TP, SOD-123 recommended |
+| Hot swap key sockets | 80*      | CPG135001S30 |
 | Key Switch            | 80*    | |
 | Key Cap               | 80*    | Ideally 6 key caps for thumbs |
-| Hot swap sockets      | 4      | Optional, 315-43-112-41-003000 or higher profile.|
+| Hot swap controller sockets | 4      | Optional, 315-43-112-41-003000 or higher profile.|
 | Hot swap pins         | 48     | Optional, 3320-0-00-15-00-00-03-0 |
 | Rubber feet           | 12     | Can have more for stability, 6 recommended minimum for each side. SJ-5302 CLEAR recommended. |
 
@@ -68,6 +70,8 @@ This build is very similar to existing keyboards. Please refer to the inspired k
 See the [documentation on QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/feature_split_keyboard.md) for how to solder the resistors. To minimise the complexity of the PCB, the left side controller is soldered upside down. There are four pads which connect the controller to the TRRS jack, these are intended to be soldered on the back side of the keyboard. From left to right with the back side facing up, if using serial connection, solder pads 1 and 4, otherwise if using I2C, solder 2, 3 and 4.
 
 ## More Images
+
+Featuring MBK and MCC POM keycaps.
 
 ![Right side](images/single.jpg)
 ![Side view](images/side.jpg)
