@@ -2,7 +2,7 @@
 
 The _articulation80_ keyboard is a split keyboard with 4x9 column splayed keys and 4 thumb keys. The name is inspired from articulated buses, where this keyboard has many connected blocks.
 
-![Keyboard preview](images/both.jpg)
+![Keyboard preview](images/stacked.jpg)
 
 It features:
 - A detachable inner number row with fixed outer number row
@@ -73,6 +73,7 @@ See the [documentation on QMK](https://github.com/qmk/qmk_firmware/blob/master/d
 
 Featuring MBK and MCC POM keycaps.
 
+![Both sides](images/both.jpg)
 ![Right side](images/single.jpg)
 ![Side view](images/side.jpg)
 ![Rendered PCB](images/pcb.png)
