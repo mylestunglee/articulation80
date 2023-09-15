@@ -5,11 +5,11 @@ The _articulation80_ keyboard is a split keyboard with 4x9 column splayed keys a
 ![Keyboard preview](images/stacked.jpg)
 
 It features:
+- Kailh Choc V1 support with choc spacing
 - A detachable inner number row with fixed outer number row
 - A detachable numpad
 - Serial or I2C connection between halves
 - Pro Micro-compatible controller support
-- Choc spacing
 - Hot-swappable
 - No branding! If you are building this, you may want to add silk-screen to make soldering easier.
 
