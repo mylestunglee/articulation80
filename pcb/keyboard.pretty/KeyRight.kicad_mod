@@ -1,11 +1,11 @@
 (footprint "KeyRight" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 2.6 unlocked) (layer "F.Fab")
+  (fp_text reference "REF**" (at 0 2.6 unlocked) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp 20e4b8a3-2367-4e68-84ce-aa6516fa073c)
   )
-  (fp_text value "KeyRight" (at 0 4 unlocked) (layer "F.Fab") hide
+  (fp_text value "KeyRight" (at 0 4 unlocked) (layer "Dwgs.User") hide
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp fc48bad4-3ba6-40d4-82f2-e006d76a4ed6)
   )
