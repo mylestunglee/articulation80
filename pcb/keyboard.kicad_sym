@@ -449,7 +449,7 @@
       )
     )
   )
-  (symbol "RightPate" (in_bom yes) (on_board yes)
+  (symbol "RightPlate" (in_bom yes) (on_board yes)
     (property "Reference" "H" (at 0 0 0) (do_not_autoplace)
       (effects (font (size 1.27 1.27)))
     )
@@ -462,7 +462,7 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "RightPate_0_1"
+    (symbol "RightPlate_0_1"
       (rectangle (start -2.54 2.54) (end 2.54 -2.54)
         (stroke (width 0) (type default))
         (fill (type none))
